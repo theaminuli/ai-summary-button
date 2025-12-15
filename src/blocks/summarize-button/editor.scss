@@ -6,7 +6,7 @@
 // This variable is repeated across Button, Buttons, and Buttons editor styles.
 $blocks-block__margin: 0.5em;
 
-.wp-block-ai-summarizer-button-summarize-button {
+.wp-block-ai-summary-button-summarize-button {
 	// Override editor auto block margins for button as well as the block appender.
 	> .wp-block {
 		margin: 0;
@@ -62,11 +62,11 @@ $blocks-block__margin: 0.5em;
 	}
 }
 
-.wp-block[data-align="center"] > .wp-block-ai-summarizer-button-summarize-button {
+.wp-block[data-align="center"] > .wp-block-ai-summary-button-summarize-button {
 	align-items: center;
 	justify-content: center;
 }
 
-.wp-block[data-align="right"] > .wp-block-ai-summarizer-button-summarize-button {
+.wp-block[data-align="right"] > .wp-block-ai-summary-button-summarize-button {
 	justify-content: flex-end;
 }

@@ -1,7 +1,7 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
-	"name": "ai-summarizer-button/summarize-button",
+	"name": "ai-summary-button/summarize-button",
 	"version": "0.3.0",
 	"title": "Summarize Buttons",
 	"category": "design",
@@ -9,7 +9,7 @@
 	"icon": "button",
 	"description": "Add AI-powered summarize buttons with customizable styles.",
 	"keywords": [ "ai", "summarize", "button", "summary", "link" ],
-	"textdomain": "ai-summarizer-button",
+	"textdomain": "ai-summary-button",
 	"supports": {
 		"anchor": true,
 		"align": [ "wide", "full" ],
