@@ -325,6 +325,14 @@ Enable appropriate block supports:
 - Use `BlockControls` for toolbar controls
 - Import components from `@wordpress/components`
 
+### 4.5 Following react.dev Best Practices
+- Keep components small and focused
+- Use hooks for state and side effects
+- Avoid unnecessary re-renders with `React.memo`
+- Use context for global state management
+- custom hooks for reusable logic
+- Specifically stong following react.dev guidelines on component structure and state management
+
 ---
 
 ## 5. Internationalization (i18n)
