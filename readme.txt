@@ -42,7 +42,7 @@ AI Summarizer combines three essential features:
 
 = Why Choose AI Summarizer? =
 
-**🤖 6 AI Models** - ChatGPT, Claude, Gemini, Grok, Perplexity & Google AI Mode
+**🤖 6 AI Models** - ChatGPT, Claude, Gemini, Grok, Perplexity & Google AI Model
 **🎨 Full Customization** - Place buttons anywhere you want, complete design control
 **⚡ Auto-Insertion** - Automatically add buttons before/after title or content
 **📍 Multiple Display Options** - Gutenberg blocks, floating action button, shortcodes, or auto-insert
@@ -197,7 +197,7 @@ Set it once, buttons appear everywhere automatically!
 
 "TL;DR" stands for "Too Long; Didn't Read" - a popular internet acronym used to provide quick summaries of lengthy text. It acknowledges that modern readers often scan content before committing to read the full article. Adding TL;DR buttons shows you respect your readers' time.
 
-= How It Works =
+**Quick Setup:**
 
 1. Add the "Summarize Button" block to any post or page
 2. Customize button text ("Summarize", "Get TL;DR", "Quick Summary", etc.)

@@ -115,12 +115,6 @@ Set it once, buttons appear everywhere automatically!
 - Block transformations (paragraphs → buttons)
 - Template system for quick setup
 
-**Floating Action Button (FAB):**
-- Position: bottom-right, bottom-left, top-right, top-left, center-left, center-right
-- Customizable appearance and colors
-- Mobile-responsive
-- Smooth animations
-
 **Automatic Inline Insertion:**
 - Before title
 - After title
@@ -450,7 +444,7 @@ ai-summarizer/
 - [ ] **Multiple Summary Styles**
   - [ ] TL;DR (quick 1-sentence overview)
   - [ ] Key Points (bullet list of main ideas)
-  - [ ]Headlines (article title suggestions)
+  - [ ] Headlines (article title suggestions)
   - [ ] Teasers (engaging preview text)
 - [ ] **Customizable Summary Length**
   - [ ] Short (1-3 sentences / 3 bullets)
@@ -481,17 +475,6 @@ ai-summarizer/
   - [ ] API key management interface
   - [ ] Usage statistics dashboard
   - [ ] Style customizer with live preview
-  - [ ] **Multi-language Support** - Summarize in 50+ languages
-
-### 🧠 Phase 4: Smart Features (v0.7.0)
-- [ ] **Admin Dashboard**
-  - [ ] Settings page with visual preview
-  - [ ] Per-model configuration panel
-  - [ ] API key management
-  - [ ] Usage statistics
-  - [ ] Style customizer with live preview
-- [ ] **Admin Controls** - Global settings and customization options
-- [ ] **Summary Shortcodes** - Use summaries anywhere in WordPress
 
 ### 🧠 Phase 4: Smart Features (v0.7.0)
 - [ ] **Chrome Built-in AI**
@@ -512,7 +495,7 @@ ai-summarizer/
   - [ ] Sentiment analysis
   - [ ] Topic extraction and tagging
 
-### Phase 5: Advanced AI Features (v0.7.5)
+### 📈 Phase 5: Advanced AI Features (v0.7.5)
 - [ ] **Contextual Summaries** - Understand article context and audience
 - [ ] **Smart Content Detection** - Auto-detect when articles need summaries
 - [ ] **Summary Quality Scoring** - Rate and improve summary quality
@@ -566,10 +549,10 @@ ai-summarizer/
 | Phase 2 | v0.5.0 | Q1 2026 | In Progress |
 | Phase 3 | v0.6.0 | Q2 2026 | Planned |
 | Phase 4 | v0.7.0 | Q3 2026 | Planned |
-| Phase 4.5 | v0.7.5 | Q3 2026 | Planned |
-| Phase 5 | v0.8.0 | Q3 2026 | Planned |
-| Phase 6 | v0.9.0 | Q4 2026 | Planned |
-| Phase 7 | v1.0.0+ | 2027 | Future |
+| Phase 5 | v0.7.5 | Q3 2026 | Planned |
+| Phase 6 | v0.8.0 | Q4 2026 | Planned |
+| Phase 7 | v0.9.0 | Q1 2027 | Planned |
+| Phase 8 | v1.0.0+ | 2027+ | Future |
 
 ## 🤝 Contributing
 
